@@ -1,0 +1,10 @@
+name: astrbot_plugin_custom_commands
+display_name: 自定义指令注册器
+desc: 在 WebUI 中自定义注册指令并固定回复，可被 QQ 菜单面板插件读取同步到 / 指令面板
+version: 1.0.1
+author: ambersmaller
+repo: https://github.com/ambersmaller/astrbot_plugin_custom_commands
+tags:
+  - 指令
+  - 自定义回复
+  - QQ
