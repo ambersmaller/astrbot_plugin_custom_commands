@@ -8,3 +8,5 @@ tags:
   - 指令
   - 自定义回复
   - QQ
+support_platforms:
+  - qq_official
